@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Telegram [https://t.me/sqnix](https://{your-web-site-link})
 - GitHub [@XasterismX](https://{github.com/your-usermame})
-- E-mail (rodion230806@bk.ru)
+- E-mail [rodion230806@bk.ru]
